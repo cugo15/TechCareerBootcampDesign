@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Wallet</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="currentBalance">Current Balance</string>
+    <string name="textMoney">$ 1608</string>
+    <string name="sendMoney">Send Money</string>
+    <string name="cards">Cards</string>
+    <string name="transaction">Transaction</string>
+    <string name="bills">Bills</string>
+    <string name="recentTrans">Recent Transactions</string>
+    <string name="expensesName1">Grocery expenses</string>
+    <string name="expensesName2">Bill expenses</string>
+    <string name="expensesName3">Send Money</string>
+    <string name="expensesDate1">16 August</string>
+    <string name="expensesDate2">16 November</string>
+    <string name="expensesDate3">11 September</string>
+    <string name="expensesCost1">$ 25</string>
+    <string name="expensesCost2">$ 13</string>
+    <string name="expensesCost3">$ 18</string>
+
+
+</resources>

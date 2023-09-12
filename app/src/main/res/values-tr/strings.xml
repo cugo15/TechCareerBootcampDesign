@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Wallet</string>
+
+    <string name="welcome">Hoşgeldin</string>
+    <string name="currentBalance">Mevcut Bakiye</string>
+    <string name="textMoney">50608 ₺</string>
+    <string name="sendMoney">Para Gönder</string>
+    <string name="cards">Kartlar</string>
+    <string name="transaction">İşlemler</string>
+    <string name="bills">Faturalar</string>
+    <string name="recentTrans">Son İşlemler</string>
+    <string name="expensesName1">Market harcaması</string>
+    <string name="expensesName2">Fatura harcaması</string>
+    <string name="expensesName3">Para gönderme</string>
+    <string name="expensesDate1">16 Ağustos</string>
+    <string name="expensesDate2">16 Kasım</string>
+    <string name="expensesDate3">11 Eylül</string>
+    <string name="expensesCost1">750 ₺</string>
+    <string name="expensesCost2">400 ₺</string>
+    <string name="expensesCost3">540 ₺</string>
+
+
+</resources>
